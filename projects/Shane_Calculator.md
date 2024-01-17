@@ -7,7 +7,7 @@ date: 2022-04-27
 published: true
 labels:
   - Java
-  - Calculator
+  - Math
 summary: "An interactive calculator app that does basic operations"
 ---
 
