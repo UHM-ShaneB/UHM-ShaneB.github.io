@@ -7,7 +7,7 @@ date: 2022-04-27
 published: true
 labels:
   - Java
-  - Math
+  - Sudoku
 summary: "A sudoku app"
 ---
 
