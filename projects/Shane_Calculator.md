@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Shane_Calc_Img.png
 title: "Shane Calculator"
 date: 2022-04-27
 published: true
