@@ -11,4 +11,6 @@ labels:
 summary: "A sudoku app"
 ---
 
-This is a sudoku app I created. This was a solo project
+Another solo project that I did. This time I tried making a sudoku game.
+
+https://github.com/UHM-ShaneB/Shane_Sudoku/tree/main
