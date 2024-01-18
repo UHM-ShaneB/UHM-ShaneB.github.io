@@ -15,4 +15,6 @@ This project was to create a calculator application using Java. It can do the ba
 
 This was a solo project so I wrote all the code. It was not a part of any assignment that I had to do for anyone. It was just something I made on my freetime in order to make use of what I learned. This is still a WIP build. As you can see in one of the files I have commented some known bugs I needed to fix and other features I want to add.
 
+Through this experience I learned the basics of creating GUIs as well as importing from different libraries since this project did use functions from the javax.swing library.
+
 [Link to repository](https://github.com/UHM-ShaneB/Shane_Calculator)
