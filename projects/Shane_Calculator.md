@@ -11,6 +11,8 @@ labels:
 summary: "An interactive calculator app that does basic operations"
 ---
 
-This is a calculator app I created using Java. All it can do is the basic operations add, subtract, multiply and divide. This project was a way for me to practice making a graphical user interface (GUI). This was a solo project so all the code was written by me. It is still a WIP build. As you can see in one of the files I wrote comments of what needed to be fixed and added.
+This project was to create a calculator application using Java. It can do the basic operations so add, subtract, multiply and divide.
+
+This was a solo project so I wrote all the code. It was not a part of any assignment that I had to do for anyone. It was just something I made on my freetime in order to make use of what I learned. This is still a WIP build. As you can see in one of the files I have commented some known bugs I needed to fix and other features I want to add.
 
 [Link to repository](https://github.com/UHM-ShaneB/Shane_Calculator)
