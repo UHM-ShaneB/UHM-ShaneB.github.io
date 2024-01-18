@@ -16,7 +16,7 @@ I had only designed two different entities, the player and an npc that I designa
 
 <div class="text-center p-4">
   <img width="200px" src="../img/Entity/Chibi_Down_1_200.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Entity/Chibi_Left_1_200.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Entity/Chibi_Left_1_200.png" class="img-thumbnail" >
   <img width="200px" src="../img/Entity/Chibi_Up_1_200.png" class="img-thumbnail" >
 </div>
 
