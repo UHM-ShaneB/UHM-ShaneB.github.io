@@ -11,8 +11,10 @@ labels:
 summary: "A sudoku app"
 ---
 
-This was another project that I did using Java. This was also a solo project so all the code was written by me. It's not perfect; there is still a lot of bugs.
+This project was to create a sudoku puzzle game using Java. It features four difficulties which determines the amount of numbers given to the player. the higher the difficulty then less numbers are given. This makes use of GUI elemetents from the javax.swing library to make it interactive.
 
-This sudoku game has four difficulties the player can choose which pretty much determines how many given numbers there are. When you complete a sudoku puzzle you get congratulated which I believe just prints congratulations in the console. It's still a WIP build.
+This project was a solo project so all of the code was created by me. But as mentioned earlier this utilizes java libraries. besides the swing libraries I did import the arraylist instead of creating one myself.
+
+From this project I expanded my knowledge of GUIs as well as using the extends keyword which allows me to create multiple classes that uses the same functions. This allowed me to keep things a little more organized.
 
 [Link to repository](https://github.com/UHM-ShaneB/Shane_Sudoku)
