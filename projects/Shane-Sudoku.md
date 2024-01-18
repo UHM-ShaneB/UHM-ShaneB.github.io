@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Shane_Sudoku_img.png
+image: img/Shane_Sudoku_Img.png
 title: "Shane Sudoku"
 date: 2023-02-04
 published: true
