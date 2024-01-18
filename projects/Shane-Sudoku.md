@@ -13,4 +13,4 @@ summary: "A sudoku app"
 
 Another solo project that I did. This time I tried making a sudoku game.
 
-[https://github.com/UHM-ShaneB/Shane_Sudoku](url)
+[Link to repository](https://github.com/UHM-ShaneB/Shane_Sudoku)
