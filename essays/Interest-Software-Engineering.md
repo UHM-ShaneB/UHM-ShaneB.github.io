@@ -4,7 +4,7 @@ type: essay
 title: "The passion that motivated my journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
-published: false
+published: true
 labels:
   - Software Engineering
 ---
