@@ -8,6 +8,15 @@ published: false
 labels:
   - Software Engineering
 ---
+## How it started
+
+I wasn't interested in software engineering at first. When I got out of high school I never though about what I wanted to be. I went with whatever career came to my mind that I enjoyed. Believe it or not I wanted to become a musician. I've wanted to play the guitar and my high school offered a class for that and I made sure to stick with that class for four years. However when I applied to go to my first college, Leeward Community College, in Pearl City, Hawaii, they didn't have a major for musicians. Since there were no music related programs at the time, and I didn't want to do liberal arts, my parents suggested I take an ICS program so I ended up doing that.
+
 ## Realization
 
-I wasn't interested in software engineering at first. When I got out of high school I never though about what I wanted to be. I went with whatever career came to my mind that I enjoyed. Believe it or not I wanted to become a musician. I've wanted to play the guitar and my high school offered a class for that and I made sure to stick with that class for four years. However when I applied to go to my first college, Leeward Community College, in Pearl City, Hawaii, they didn't have a major for musicians. Since there were no music related programs at the time, and I didn't want to do liberal arts I was suggested to take 
+I took my first ICS class at Leeward Community College and that happened to be ICS 111. In that class I learned to write code in Java and the first program I made, which is probably most if not everyones first program, was to output "Hello World!. With just a few lines of code, I was already hooked into the world of software engineering. Afterwards I started to learn Java on my own time and began thinking about learning other programming languages. At the time of writing this essay, I am currently learning JavaScript and most likely in the future I will be learning other languages like python or C++.
+
+
+## Ambitions
+
+I've been a lover of video games pretty much my whole life. I started out as a console gamer when I was a kid playing games on the playstation and then moved on to being a PC gamer. Though the desire to play video games has pretty much been going down for me and I it's because I feel like passing the time playing games is not enough for me. But then I remembered the words from an anime I watched. I wanted to move on from being a player and become a creator. These weren't the exact words but it's very similar. Though I don't want to be limited to just creating games, I want to create something that can be distributed to the public to use. I am hoping to develop the skills needed in order to fulfill my ambitions.
