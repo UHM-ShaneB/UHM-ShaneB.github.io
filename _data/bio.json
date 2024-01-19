@@ -10,7 +10,8 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "UHM-ShaneB", "url": "http://github.com/UHM-ShaneB" },
-      { "network": "linkedin", "username": "uhm-shane-baclig", "url": "http://linkedin.com/in/uhm-shane-baclig" }
+      { "network": "linkedin", "username": "uhm-shane-baclig", "url": "http://linkedin.com/in/uhm-shane-baclig" },
+      { "network": "facebook" , "username": "Shane Baclig", "url": "https://www.facebook.com/shane.baclig.7/" }
     ]
   },
   "interests": [
