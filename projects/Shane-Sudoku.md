@@ -19,7 +19,7 @@ This project was my attempt in creating a sudoku puzzle game using Java. Sudoku 
 
 This was a solo project that I created during my freetime in a span of about a month. I pretty much wrote all the code but I did have to use the Java libraries. To make it user friendly I had to make use of GUI elements from the swing package as well as some elements from the uitl package like ArrayList. I also had to create an algorithm to determine where the given numbers are postioned. 
 
-### Algorithm
+### *Algorithm*
 
 My idea was to randomly fill each row with numbers from 1 to 9 that satisfies the condition of no duplicates in each 3x3 square, column and row. After all the squares were filled, randomly chosen squares would have their numbers removed. The amount of removed numbers is determined by the difficulty the user had set it too. Whatever numbers were left would be grayed out and unable to be modified by the user.
 
