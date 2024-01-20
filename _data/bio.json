@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows" ]
+      "keywords": [ "MacOS", "Windows, Git/GitHub" ]
     }
   ],
   "education": [
