@@ -13,7 +13,7 @@ summary: "A sudoku puzzle app"
 
 ## About The Project
 
-This project was my attempt in creating a sudoku puzzle game using Java. Sudoku is a puzzle game in which you are presented with a 9x9 grid of squares that are split up into groups of smaller 3x3 squares. Some of the squares will already be filled out with numbers ranging between 1 and 9, and the player must fill the rest of the squares making sure that it follows certain condition:
+This project was my attempt in creating a sudoku puzzle game using Java. Sudoku is a puzzle game in which you are presented with a 9x9 grid of squares that are split up into groups of smaller 3x3 squares. The objective is to fill each square in with a number ranging from 1 to 9. Some squares will already have a number filled in. However, when filling in these numbers, certain conditions must be satisfied:
 
   - All squares must have a number
   - The same number cannot appear in the same 3x3 square, column, and row. 
