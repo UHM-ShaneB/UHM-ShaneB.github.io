@@ -14,7 +14,7 @@ I wasn't interested in software engineering at first. When I got out of high sch
 
 ## Realization
 
-I took my first ICS class at Leeward Community College and that happened to be ICS 111. In that class I learned to write code in Java and the first program I made, which is probably most if not everyones first program, was to output "Hello World!. With just a few lines of code, I was already hooked into the world of software engineering. Afterwards I started to learn Java on my own time and began thinking about learning other programming languages. At the time of writing this essay, I am currently learning JavaScript and most likely in the future I will be learning other languages like python or C++.
+I took my first ICS class at Leeward Community College and that happened to be ICS 111. In that class I learned to write code in Java and the first program I made, which is probably most peoples first program, was to output "Hello World!. With just a few lines of code, I was already hooked into the world of software engineering. Afterwards I started to learn Java on my own time and began thinking about learning other programming languages. At the time of writing this essay, I am currently learning JavaScript and most likely in the future I will be learning other languages like python or C++.
 
 
 ## Ambitions
