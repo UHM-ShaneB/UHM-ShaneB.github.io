@@ -8,4 +8,4 @@ published: false
 labels:
   - Smart Questions
 ---
-## What is a smart question?
+## 
