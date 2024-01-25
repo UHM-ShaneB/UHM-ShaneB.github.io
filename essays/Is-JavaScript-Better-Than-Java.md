@@ -15,12 +15,12 @@ Before I started learning about JavaScript the only other programming language I
 
 ## Java is too complicated
 
-In my opinion, JavaScript makes things less complicated compared to Java. For example, in Java, declaring variables requires certain keywords depending on the type of information you want to store, and there are many different types. If you want to store a whole number in the variable you would need to use the keyword called int. If you try putting anything else in an int variable, you will get an error. However, in javaScript it doesn’t use any of those keywords. The only keywords you need are var, let, or const. These keywords have different uses but they all can store data of any type.
+In my opinion, JavaScript makes things less complicated compared to Java especially when it comes to functions, or methods. When you create functions in Java you have to define the return type and it must return a value of that type. So if your function returns a boolean, it has to be true or false, you can’t return a number or a string. Functions in JavaScript on the other hand does not care what datatype you return because you don't specify what the return is. There are other keywords in Java that you can use like private, public, static, and nonstatic which can be very useful but to someone who just started learning Java, that can be very confusing.
 
-## JavasScript isn't strict
+## The cons of JavaScript
 
-When I code using Java, it feels too strict. When you create functions or methods you have to define the return type and it must return a value of that type. So if your function returns a boolean, it has to be true or false, you can’t return a number or a string. JavaScript on the other hand does not care what you return.
+I mentioned quite a few things that makes Javascript better than Java. However, that does not mean it is a perfect coding language. I have my problems as well but they may not be so bad. One thing I noticed is that JavaScript error messages do not provide much help. I had an error saying that I can't access a certain property but it wasn't because I mispelled the property name or the name of the object. Instead, the problem occured because I mispelled constructor when I made the class. It doesn't even tell me the line that the error occurse, or at least it's not obvious for me to see. Java, however, tells you the line the error occured and the type of error. Though sometimes it can be a bit confusing with the name they used. This may just be an IDE problem though. I haven't tried using any other IDE for JavaScript so I won't be too harsh about it for now.
 
 ## Thoughts on JavaScript
 
-I am still in the early stages of learning JavaScript but so far I can say that my experience with this new language is great. I can even say that it is looking a lot better than Java and make the switch to JavaScript as my maing coding language because I believe I can create much more intricate projects.
+I am still in the early stages of learning JavaScript but so far I can say that my experience with this new language is great. Even if I way the pros and cons of JavaScript, it still seems a lot better than Java. I may in fact make the switch to JavaScript as my main coding language because I believe I can create much more intricate projects.
