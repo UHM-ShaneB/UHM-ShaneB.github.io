@@ -18,7 +18,7 @@ For software engineers who are unsure of what to do, asking smart questions lead
 
 ## Smart question example
 
-I found a person on stackoverflow who had a problem with starting up an IDE called Eclipse. This person asked for assisstance in a smart way. They provided the version of Eclipse they installed, the error message, and even mentioned that they tried to do something to fix the problem before resorting to asking the community for help. This person got a very postive response from the community. One person gave an explanation as to why it wasn't working along with a detailed explanation on how to fix the problem. The post can be found [here](https://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13) on stackoverflow.
+I found a person on stackoverflow who had a problem with starting up an IDE called Eclipse. This person asked for assistance from the Java communithy in a smart way. They provided the version of Eclipse they installed, the error message that popped up, and even mentioned that they tried to do something to fix the problem before resorting to asking the community for help. Even posted a picture of the whole error message which also helped the community figure out the problem. Basically the original poster's version of Eclipse did not support the version of Java they were using. This person got a very postive response from the community. One person gave an explanation as to why it wasn't working along with a detailed explanation on how to fix the problem. The post can be found [here](https://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13) on stackoverflow.
 
 ## A question that is not so smart
 
