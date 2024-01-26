@@ -20,6 +20,6 @@ For software engineers, asking smart questions leads to the answer we need much 
 
 ## An example of a not so smart question
 
-An example of a not so smart question can be found [here](https://stackoverflow.com/questions/18040762/length-java15-error-cannot-find-symbol-length-java16-error-cannot-find-sy)
+An example of a not so smart question can be found [here](https://stackoverflow.com/questions/18040762/length-java15-error-cannot-find-symbol-length-java16-error-cannot-find-sy) on stackoverflow. Basically this person asking the question did not provide enough information. They stated that they are getting "cannot find symbol" errors in his Java program and posted pictures of his code with nothing else to support. It didn't seem like this person even tried to fix the problem on his own because they never stated if they tried anything to diagnose the problem. They didn't even ask for any advice or help on how to fix it. The code they posted was also hard to read because it lacked indentation. This person received a lot of negative responses but some of them still provide a fix for this persons problem.
 
 ## References
