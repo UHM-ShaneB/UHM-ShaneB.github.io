@@ -10,7 +10,7 @@ labels:
 ---
 ## What is a smart question?
 
-The difference between a smart question and a dumb question is the way they are worded. You will get a different response if you ask a smart question versus if you were to ask a dumb one and it's obvious that asking the dumb question will result in recieving bad or unhelpful advice. To ask a smart question, you need to keep in mind the audience you are asking the question to. Make sure it is relevent to the platform you are asking the question and provide necessary details to support your question. For eaxample, if you are having problems with your code explain what the problem is and if it occurs when you do something specific.
+The difference between a smart question and a dumb question is the way they are worded. You will get a different response if you ask a smart question versus if you were to ask a dumb one and it's obvious that asking the dumb question will result in recieving bad or unhelpful advice. To ask a smart question, you need to keep in mind the audience you are asking the question to. Make sure it is relevent to the platform you are asking the question and provide necessary details to support your question. For eaxample, if you are having problems with your code explain what the problem is and if it occurs when you do something specific. 
 
 ## Importance of smart questions
 
@@ -18,6 +18,8 @@ For software engineers, asking smart questions leads to the answer we need much 
 
 ## Smart question example
 
+## An example of a not so smart question
 
+An example of a not so smart question can be found [here](https://stackoverflow.com/questions/18040762/length-java15-error-cannot-find-symbol-length-java16-error-cannot-find-sy)
 
 ## References
