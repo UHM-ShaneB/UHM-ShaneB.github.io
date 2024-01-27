@@ -11,7 +11,7 @@ labels:
 ---
 ## A new experience
 
-Before I started learning about JavaScript the only other programming language I knew was Java. So learning the basics of JavaScript wasn’t too difficult. There was a lot to remember but thankfully a lot of the syntax was very similar to Java like if-else and loops. They do have their differences but do those differences make JavaScript better than Java?
+Before I started learning about JavaScript the only programming language I was familiar with was Java. I've tried coding in c++ and this other language called lua but it has been so long since I even touched those languages. However, I still stuck with my Java coding so learning the basics of JavaScript wasn’t too difficult. There was a lot to remember but thankfully a lot of the syntax was very similar to Java like if-else and loops. They do have their differences but do those differences make JavaScript better than Java?
 
 ## Java is too complicated
 
@@ -23,4 +23,4 @@ I mentioned a few things that makes Javascript better than Java. However, that d
 
 ## Thoughts on JavaScript
 
-I am still in the early stages of learning JavaScript but so far I can say that my experience with this new language is great. Even if I way the pros and cons of JavaScript, it still seems a lot better than Java. I may in fact make the switch to JavaScript as my main coding language because I believe I can create much more intricate projects.
+I am still in the early stages of learning JavaScript but so far I can say that my experience with this new language is great. Even if I way the pros and cons of JavaScript, it still seems a lot better than Java. I may in fact make the switch to JavaScript as my main coding language because I believe I can create much more intricate projects. I look forward to learning more about JavaScript and hopefully create an amazing project.
