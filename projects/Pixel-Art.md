@@ -12,7 +12,7 @@ summary: "Pixel art of video game entities"
 
 ## About project
 
-I was in the process of creating a 2D RPG in Java and I needed to add graphics. Since it was a small 2D game I was making, I could get away with using pixelated graphics. They are easy to make and does not require any professional equipment to make them look appealing. Unfortunately I ended up not finishing the 2D game but I still kept the assets for use in future video game projects that I will create.  
+I was in the process of creating a 2D RPG in Java and I needed to add graphics. Since it was a small 2D game I was making, I could get away with using pixelated graphics. They are easy to make and does not require any professional equipment to make them look appealing. Unfortunately I ended up not finishing the 2D game but I still kept the assets for use in future video game projects that I will create. 
 
 ## My contribution
 
