@@ -10,7 +10,7 @@ labels:
   - IntelliJ
   - Coding Standards
 ---
-## <span style="color:red;"> Coding Standards Is The Way To Go </span>
+## Coding Standards Is The Way To Go
 
 For the past week I have been writing my Javascript code in IntelliJ. At the same time, I implemented the use of coding standards and I honestly believe it's one of the best techniques to practice when writing code. Following coding standards, in my opinion, improves the quality of the code and makes it look very professional. I believe that coding standards can help a person better understand the language they are using and can make it easier for other people to read your code. 
 
