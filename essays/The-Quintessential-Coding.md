@@ -19,6 +19,7 @@ For the past week I have been writing my Javascript code in IntelliJ. At the sam
 <img width="150px"
      class="rounded float-start pe-4"
      src="/img/ESLint_logo.svg.png" >
+     
 It’s not easy for me to remember all of the coding standards. Thankfully there is a tool called ESLint that can help me. It’s my first time using this tool but I think it is very user friendly and wasn’t too difficult to set up. It’s very similar to how word or google docs checks for any grammar or spelling errors and underlines them with a squiggly line if there is one. ESLint underlines anything that violates the coding standards. You can hover over the error and it tells you exactly what’s wrong with it. Some of the violations were not clear for me and that’s probably because I’m still learning Javascript and not familiar with all the terms. One of them said Expected property shorthand which meant I had to use the shorthand syntax. But that’s okay since ESLint provides details of the violations on their website and sometimes It will give you the option to allow ESLint to fix it.
 
 ## Coding Standard Violations For Javascript
