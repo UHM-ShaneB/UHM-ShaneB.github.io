@@ -33,6 +33,6 @@ One coding standard violation that I’ve done, and probably will unintentionall
 I never use var when declaring variables so I’m good with that. However, my mind defaults to using let since I’m usually not sure if the variable is reassigned until I finish writing my code.
 
 ### Equality And Inequality
-Another violation I’ve encountered in some of the code I wrote involves the equality and inequality operators. Javascript provides two different versions for them. The regular operator for equality and inequality is == and != respectively. However the use of these is highly discouraged as it could cause problems since it ignores the datatype. Using === and !=== instead is better practice as they are much more strict since it takes the datatype into account. 
+Another violation I’ve encountered in some of the code I wrote involves the equality and inequality operators. Javascript provides two different versions for them. The regular operator for equality and inequality is == and != respectively. However the use of these is highly discouraged as it could cause problems since it ignores the datatype. Using === and !== instead is better practice as they are much more strict since it takes the datatype into account. 
 
 Before I would use the double equals since I’m used to it in Java. I pretty much developed the habit of using the stricter version of the operators instead so you won’t catch me using the regular ones anymore.
