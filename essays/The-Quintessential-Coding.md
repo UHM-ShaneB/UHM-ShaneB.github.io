@@ -7,7 +7,6 @@ date: 2024-02-06
 published: true
 labels:
   - ESLint
-  - IntelliJ
   - Coding Standards
 ---
 ## Coding Standards Is The Way To Go
