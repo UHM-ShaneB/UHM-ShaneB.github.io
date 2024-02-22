@@ -24,5 +24,5 @@ Using bootstrap will make your life easier if you know what to do. The amount of
 
 ## My bootstrap 
 
-I tried to recreate a website using bootstrap and it wasn’t too bad. The website that I tried to recreate is the homepage of a game I play called [osu!](https://osu.ppy.sh/home). In [my recreation](file:///Users/shane/Documents/GitHub/osucopy/index.html),
+I tried to recreate a website using bootstrap and it wasn’t too bad. The website that I tried to recreate is the homepage of a game I play called [osu!](https://osu.ppy.sh/home). In my recreation,
 
