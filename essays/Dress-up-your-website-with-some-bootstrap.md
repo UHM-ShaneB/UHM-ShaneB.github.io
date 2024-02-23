@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Dress up your website with some bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
@@ -22,7 +22,7 @@ Let’s talk about bootstrap. I didn’t know what it was at first. I thought it
 
 ### So why use bootstrap
 
-Using bootstrap will make your life easier if you know what to do. The amount of time it takes to style your website will be significantly reduced with bootstrap. All you need to do is implement the classes and that’s pretty much it. It does have its limitations though. If you want to use a specific font or color, then you would have to specify it in your style.css file. 
+Using bootstrap will make your life easier if you know what to do. The amount of time it takes to style your website will be significantly reduced with bootstrap. It eliminates one of the hardest parts of designing a website and that is knowing what values to put when positioning certain elements. All you need to do is implement the classes and that’s pretty much it. It does have its limitations though. If you want to use a specific font or color, then you would have to create those specifications yourself. 
 
 ## Using bootstrap to copy a website
 
