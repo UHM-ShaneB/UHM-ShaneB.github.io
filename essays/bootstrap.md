@@ -16,6 +16,8 @@ I’ve been wanting to learn about html and css but I never had the motivation t
 
 ### Bootstrap
 
+<img class="float-start" src="/img/Bootstrap_logo.svg.png" width="200px">
+
 Let’s talk about bootstrap. I didn’t know what it was at first. I thought it was like another language that I needed to learn, but it wasn’t. It’s pretty much a library to help you with the design of your website. However, learning bootstrap is no different than learning another language. There were a lot of classes to remember and, to be honest, I don’t remember most of the ones I used.
 
 ### So why use bootstrap
@@ -31,8 +33,8 @@ Instead of a video, which the original website uses, I just used an image. The n
 Everything that is clickable in the original website is clickable in my recreation. It doesn’t lead anywhere since putting all the links will take too much time. But I did put at least one link. The original website has a link to the source code which leads to a github repository. So instead I put a link to my repository instead. Unfortunately, I have it set to private so it can only be seen by me or people I added as collaborators. But don't worry, I have provided a few images of my recreation.
 
 <div>
-  <img src="/img/osu-copy-1.png" width="300">
-  <img src="/img/osu-copy-2.png" width="300">
+  <img src="/img/osu-copy-1.png" width="300px">
+  <img src="/img/osu-copy-2.png" width="300px">
 </div>
 
 ## Going forward with bootstrap
