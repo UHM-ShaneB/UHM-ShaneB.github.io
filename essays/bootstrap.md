@@ -30,7 +30,7 @@ Instead of a video, which the original website uses, I just used an image. The n
 
 Everything that is clickable in the original website is clickable in my recreation. It doesn’t lead anywhere since putting all the links will take too much time. But I did put at least one link. The original website has a link to the source code which leads to a github repository. So instead I put a link to my repository instead. Unfortunately, I have it set to private so it can only be seen by me or people I added as collaborators.
 
-<img src="/img/osu-copy-1.png>
+<img src="/img/osu-copy-1.png" width="200">
 
 ## Going forward with bootstrap
 
