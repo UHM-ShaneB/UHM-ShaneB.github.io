@@ -16,7 +16,7 @@ I’ve been wanting to learn about html and css but I never had the motivation t
 
 ### Bootstrap
 
-<img class="float-start" src="/img/Bootstrap_logo.svg.png" width="200px">
+<img class="rounded float-start px-4" src="/img/Bootstrap_logo.svg.png" width="100px">
 
 Let’s talk about bootstrap. I didn’t know what it was at first. I thought it was like another language that I needed to learn, but it wasn’t. It’s pretty much a library to help you with the design of your website. However, learning bootstrap is no different than learning another language. There were a lot of classes to remember and, to be honest, I don’t remember most of the ones I used.
 
