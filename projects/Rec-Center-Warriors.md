@@ -4,7 +4,7 @@ type: project
 image: img/RCW/RCW-Image.png
 title: "Rec Center Warriors"
 date: 2022-05-09
-published: false
+published: true
 labels:
   - Meteor
   - React
