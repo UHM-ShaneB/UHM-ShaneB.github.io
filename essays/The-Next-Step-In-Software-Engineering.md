@@ -21,6 +21,10 @@ But these two IDEs weren’t enough to become a software engineer. After learnin
 
 ## User Interface Frameworks
 
+<img width="150px"
+     class="rounded float-start pe-4"
+     src="/img/Bootstrap_logo.svg.png" >
+     
 Now for something completely new to me and that is User Interface Frameworks. While I was learning about web development, I thought the only thing I will be learning is HTML and CSS. Well, I was wrong. I ended up learning about something called Bootstrap alongside HTML and CSS. 
 
 Bootstrap is known as A User Interface Framework, Or UI Framework. It’s pretty much like learning HTML but the tags are different. Bootstrap is mainly for web development since pretty much everything in bootstrap relates to designing websites. However, this is valuable knowledge for me since there are probably a lot more frameworks out there, and not just for web development. I just need to find them. Maybe there is one for game designing.
