@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/RCW/RCW-Image.png
 title: "Rec Center Warriors"
-date: 2022-05-09
+date: 2024-05-09
 published: true
 labels:
   - Meteor
