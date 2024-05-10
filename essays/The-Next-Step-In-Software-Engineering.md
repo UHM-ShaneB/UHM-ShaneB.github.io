@@ -14,6 +14,10 @@ Well I better remember what I learned in my software engineering class because i
 
 ## Development Environments
 
+<img width="150px"
+     class="rounded float-start pe-4"
+     src="/img/IntelliJ_IDEA_Icon.svg.png" >
+
 Integrated Development Environments, or IDE, are applications that assist us programmers to code easily and much more efficiently. It’s much more reliable than using a notepad to write the code and using the command line to run it. You can compile and run your program with a simple push of a button and it’s easier to find errors in your code.
 I’ve used some IDEs before when I was coding in Java. I used JGrasp when I first started learning coding, but later on when I began expanding my knowledge on my own time I made the switch to using Eclipse. Between the two, Eclipse is the better IDE.
 
