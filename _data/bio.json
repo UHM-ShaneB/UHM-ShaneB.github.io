@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript" ]
+      "keywords": [ "Java", "Javascript", Bootstrap, React, MongoDB, Meteor ]
     },
     {
       "name": "Toolsets/OS",
