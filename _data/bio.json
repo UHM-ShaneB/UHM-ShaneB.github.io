@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "HTML", "Bootstrap", "React", "MongoDB", "Meteor" ]
+      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Bootstrap", "React", "MongoDB", "Meteor", "MySQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -41,7 +41,7 @@
     },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
