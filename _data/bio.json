@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Bootstrap", "React", "MongoDB", "Meteor", "MySQL" ]
+      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Bootstrap", "React", "MongoDB", "Meteor", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
