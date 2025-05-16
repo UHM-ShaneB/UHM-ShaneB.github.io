@@ -31,6 +31,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
+      # Install Ruby using rbenv and ruby-build
+      - name: Install rbenv and Ruby
+        run: |
+          sudo apt update
+          sudo apt install -y build-essential libssl-dev zlib1g-dev libreadline-dev libffi-dev git-core curl
+          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+          source ~/.bashrc
+          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+          ~/.rbenv/bin/rbenv install 3.1.0
+          ~/.rbenv/bin/rbenv global 3.1.0
+
+      # Verify Ruby installation
+      - name: Verify Ruby Installation
+        run: ruby --version
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
