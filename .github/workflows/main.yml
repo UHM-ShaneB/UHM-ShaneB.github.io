@@ -15,32 +15,29 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Build job
   build:
-    runs-on: ubuntu-latest # Use a supported GitHub-hosted runner
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Install Ruby using rbenv
-      - name: Install rbenv and Ruby
+      # Install Ruby manually
+      - name: Install Ruby
         run: |
-          sudo apt update
-          sudo apt install -y build-essential libssl-dev zlib1g-dev libreadline-dev libffi-dev git-core curl
-          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-          source ~/.bashrc
-          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
-          ~/.rbenv/bin/rbenv install 3.1.0
-          ~/.rbenv/bin/rbenv global 3.1.0
-
-      - name: Verify Ruby Installation
-        run: ruby --version
+          sudo apt-get update
+          sudo apt-get install -y curl git
+          git clone https://github.com/rbenv/ruby-build.git
+          PREFIX=/usr/local ./ruby-build/install.sh
+          ruby-build 3.1.0 ~/.rubies/3.1.0
+          echo 'export PATH="$HOME/.rubies/3.1.0/bin:$PATH"' >> $GITHUB_ENV
+          echo 'export PATH="$HOME/.rubies/3.1.0/bin:$PATH"' >> $BASH_ENV
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Matches the Ruby version installed manually
-          bundler-cache: true
+          ruby-version: '3.1'
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Setup Pages
         id: pages
@@ -54,11 +51,12 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
