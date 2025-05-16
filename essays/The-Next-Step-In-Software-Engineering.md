@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Next Step I Software Engineering"
+title: "The Next Step In Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-09
 published: true
