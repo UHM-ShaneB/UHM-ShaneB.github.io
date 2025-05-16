@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04 # Use a supported GitHub-hosted runner
+    runs-on: ubuntu-latest # Use a supported GitHub-hosted runner
     steps:
       - uses: actions/checkout@v3
 
